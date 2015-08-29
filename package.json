@@ -1,14 +1,14 @@
 {
   "name": "is-it-thursday",
-  "version": "0.0.1",
-  "description": "an educated guess if its Thursday or not...",
+  "version": "0.0.2",
+  "description": "An educated guess if its Thursday or not...",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Niler851/isItThursday.git"
+    "url": "https://github.com/Niler851/is-it-thursday.git"
   },
   "keywords": [
     "thursday",
