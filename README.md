@@ -11,5 +11,9 @@ $npm install is-it-thursday
 
 ```javascript
 var isItThursday = require('is-it-thursday');
-console.log(isItThursday.huh)
+console.log(isItThursday.huh)  // Probably not...
 ```
+
+
+
+
